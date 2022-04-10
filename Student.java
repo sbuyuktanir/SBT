@@ -1,5 +1,6 @@
 public class Student
 {
 	private int studentId;
-	private String name;
+	private String firstname;
+	private String lastname;
 }
